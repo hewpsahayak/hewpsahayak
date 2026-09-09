@@ -18,7 +18,7 @@ function downloadInstallerOnly(e) {
     e.preventDefault();
     const a = document.createElement('a');
     a.href = primaryURL;
-    a.download = 'HEWP_OnlineInstaller.exe';
+    a.download = 'HEWPSahayak_OnlineInstaller.exe';
     a.style.display = 'none';
     document.body.appendChild(a);
     a.click();
@@ -656,7 +656,7 @@ function animateNumber(element, start, end, duration, suffix) {
     });
     contactModal.addEventListener('click', e => e.stopPropagation());
     if (emailBtn) emailBtn.addEventListener('click', () => {
-        window.location.href = 'mailto:hewpsahayak@gmail.com?subject=HEWP%20Excel%20Addins%20Support&body=Hello%20MRGARGSIR%20Team,%0D%0A%0D%0AI%20need%20help%20with...';
+        window.location.href = 'mailto:HEWPSahayak@gmail.com?subject=HEWP%20Excel%20Addins%20Support&body=Hello%20MRGARGSIR%20Team,%0D%0A%0D%0AI%20need%20help%20with...';
     });
     if (whatsappBtn) whatsappBtn.addEventListener('click', () => {
         window.open('https://wa.me/919728532828?text=' + encodeURIComponent("Hello MRGARGSIR Team, I need help with HEWP Sahayak Tool."), '_blank');
@@ -792,6 +792,7 @@ function animateNumber(element, start, end, duration, suffix) {
    20. DOWNLOAD FUNCTIONALITY (download.html)
    ================================================ */
 const primaryURL = 'https://github.com/hewpsahayak/hewpsahayak/releases/download/latest/OnlineInstaller.exe';
+const standaloneURL = 'https://github.com/hewpsahayak/hewpsahayak/releases/download/latest/OfflineInstaller.exe';
 const fallbackURL = 'https://www.dropbox.com/scl/fi/im5wrvw2rbooke9hzf2tp/Installer.exe?rlkey=1gdochm746czv53n38uvfne7l&st=106xolzv&dl=1';
 const secondfallbackURL = 'https://drive.google.com/drive/folders/1piwXbr2Df7CESRsw6ezKuDv_VIoQq7il?usp=sharing';
 let secondURL;
@@ -801,9 +802,9 @@ function startDownload(button) {
     if (!button) return;
     let downloadURL, installerName;
     if (button.id === 'downloadBtnStandalone') {
-        downloadURL = fallbackURL; secondURL = primaryURL; installerName = 'HEWP_StandaloneInstaller.exe';
+        downloadURL = standaloneURL; secondURL = fallbackURL; installerName = 'HEWPSahayak_OfflineInstaller.exe';
     } else {
-        downloadURL = primaryURL; secondURL = fallbackURL; installerName = 'HEWP_OnlineInstaller.exe';
+        downloadURL = primaryURL; secondURL = fallbackURL; installerName = 'HEWPSahayak_OnlineInstaller.exe';
     }
     button.disabled = true;
     button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Preparing download...';
