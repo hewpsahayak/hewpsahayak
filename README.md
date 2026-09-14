@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://hewpsahayak.github.io/hewpsahayak/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://hewpsahayak.store/)
 [![Documents](https://img.shields.io/badge/Documents-Open-orange?style=for-the-badge)](#-documentation)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919728532828)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/HEWPSahayak)
@@ -49,7 +49,7 @@ In Hindi, *सहायक (sahayak)* means **helper, assistant, aide** — some
 
 ## 🚀 Download
 
-**📦 Download from Official Website:** [https://hewpsahayak.github.io/hewpsahayak/](https://hewpsahayak.github.io/hewpsahayak/)
+**📦 Download from Official Website:** [https://hewpsahayak.store/](https://hewpsahayak.store/)
 
 **📦 Direct Installer Downloads (latest release):**
 - Online Installer: `https://github.com/hewpsahayak/hewpsahayak/releases/download/latest/OnlineInstaller.exe`
@@ -550,7 +550,7 @@ This ensures you are working with the latest portal data and prevents quantity m
 
 ## 🎥 Video Tutorials
 
-Step-by-step video walkthroughs are embedded directly on the [Tutorials page](https://hewpsahayak.github.io/hewpsahayak/tool/tutorials.html) of the website.
+Step-by-step video walkthroughs are embedded directly on the [Tutorials page](https://hewpsahayak.store/tool/tutorials.html) of the website.
 
 ## 📄 Documentation
 
@@ -564,7 +564,7 @@ Step-by-step video walkthroughs are embedded directly on the [Tutorials page](ht
 
 - 📧 **Email:** HEWPSahayak@gmail.com
 - 📱 **WhatsApp:** +91 97285 32828
-- 🌐 **Website:** [https://hewpsahayak.github.io/hewpsahayak/](https://hewpsahayak.github.io/hewpsahayak/)
+- 🌐 **Website:** [https://hewpsahayak.store/](https://hewpsahayak.store/)
 
 ### 🌍 Social & Community:
 
@@ -643,7 +643,7 @@ This software is proprietary and licensed for use only by authorized customers w
 We're committed to being the assistant that makes your engineering work faster, easier, and error-free.
 
 For the latest updates, tutorials, and support:
-- 🌐 Visit: [hewpsahayak.github.io/hewpsahayak](https://hewpsahayak.github.io/hewpsahayak/)
+- 🌐 Visit: [hewpsahayak.github.io/hewpsahayak](https://hewpsahayak.store/)
 - 💬 Join: [WhatsApp Community](https://chat.whatsapp.com/DEXKInfvpBd9cLwyaoq0sd)
 - 📘 Follow: [Facebook](https://facebook.com/HEWPSahayak)
 
@@ -653,6 +653,6 @@ For the latest updates, tutorials, and support:
 
 **Made with ❤️ for Engineers and Contractors**
 
-[![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://hewpsahayak.github.io/hewpsahayak/)
+[![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://hewpsahayak.store/)
 
 </div>
